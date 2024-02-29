@@ -1,10 +1,17 @@
 <div align="center">
   
   # Subnet Calculator
-  
+
 </div>
 
-Welcome to my personal project repository, where I've developed a Subnet Calculator tool using C++. This project is a testament to my interest in network engineering and programming, combining both to create a utility that's both simple and powerful. The primary goal of this tool is to assist network administrators, students, and IT professionals in efficiently calculating various network parameters given an IP address and subnet mask. With this tool, users can quickly determine important network information such as the network address, broadcast address, the range of valid IP addresses within a subnet, and the total number of hosts it can support.
+Welcome to my personal project repository, where I've developed a Subnet Calculator tool using C++. This project is a testament to my interest in network engineering, cybersecurity and programming, combining both to create a utility that's both simple and powerful. The primary goal of this tool is to assist network administrators, students, and IT professionals in efficiently calculating various network parameters given an IP address and subnet mask. With this tool, users can quickly determine important network information such as the network address, broadcast address, the range of valid IP addresses within a subnet, and the total number of hosts it can support.<br>
+
+<div align="center">
+  
+  ## Subnet Calculator Screenshot
+  
+  <img src="image/subnetcmd.png" height="80%" width="80%" alt="Subnet Calculator Screenshot"/>
+</div>
 
 ## Features
 
