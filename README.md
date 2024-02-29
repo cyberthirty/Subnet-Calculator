@@ -35,13 +35,18 @@ Ensure you have a C++ compiler installed:
     ```bash
     cd Subnet-Calculator
     ```
-3. Compile the program using your C++ compiler. For example, using g++:
+3. Navigate to the src directory:
     ```bash
-    g++ subnet_calculator.cpp -o subnet_calculator
+    cd src
     ```
-4. Run the compiled program:
+
+4. Compile the program using your C++ compiler. For example, using g++:
     ```bash
-    ./subnet_calculator
+    g++ g++ 'Subnet Calculator.cpp' -o 'Subnet Calculator'
+    ```
+5. Run the compiled program:
+    ```bash
+    .\'Subnet Calculator'
     ```
 
 ## Usage
@@ -52,12 +57,10 @@ After starting the program, you will be prompted to enter an IP address and a su
 
 ```
 Enter IP address: 192.168.1.1
-Enter Subnet Mask (e.g., 24 for /24): 30
+Enter Subnet Mask (e.g., 24 for /24): 24
 
 Calculating...
 
-Enter IP address: 192.168.1.1
-Enter Subnet Mask (e.g., 24 for /24): 24
 Network Address: 192.168.1.0
 Broadcast Address: 192.168.1.255
 First Usable IP Address: 192.168.1.1
