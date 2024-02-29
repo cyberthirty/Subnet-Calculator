@@ -42,7 +42,7 @@ Ensure you have a C++ compiler installed:
 
 4. Compile the program using your C++ compiler. For example, using g++:
     ```bash
-    g++ g++ 'Subnet Calculator.cpp' -o 'Subnet Calculator'
+    g++ 'Subnet Calculator.cpp' -o 'Subnet Calculator'
     ```
 5. Run the compiled program:
     ```bash
